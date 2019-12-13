@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "ded1816c-a364-4c19-bac4-d2a7364b57c1",
+    "name": "Somniae",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
