@@ -1,52 +1,40 @@
-[17:02:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:02:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:02:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:02:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:02:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:02:58] [Server thread/INFO]: Starting minecraft server version 1.15
-[17:02:58] [Server thread/INFO]: Loading properties
-[17:02:58] [Server thread/INFO]: Default game type: SURVIVAL
-[17:02:58] [Server thread/INFO]: Generating keypair
-[17:02:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:02:59] [Server thread/INFO]: Using default channel type
-[17:03:00] [Server thread/INFO]: Preparing level "world"
-[17:03:00] [Server thread/INFO]: Reloading ResourceManager: Default
-[17:03:01] [Server thread/INFO]: Loaded 6 recipes
-[17:03:01] [Server thread/INFO]: Loaded 825 advancements
-[17:03:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:03:04] [Server thread/INFO]: Preparing spawn area: 0%
-[17:03:04] [Server thread/INFO]: Preparing spawn area: 0%
-[17:03:04] [Server thread/INFO]: Preparing spawn area: 0%
-[17:03:04] [Server thread/INFO]: Preparing spawn area: 0%
-[17:03:05] [Server thread/INFO]: Preparing spawn area: 0%
-[17:03:05] [Server thread/INFO]: Preparing spawn area: 0%
-[17:03:05] [Server thread/INFO]: Preparing spawn area: 0%
-[17:03:06] [User Authenticator #1/INFO]: UUID of player TemPengu is 5165e583-e36b-4610-99cf-2bf0443d5772
-[17:03:06] [Server thread/INFO]: Time elapsed: 3580 ms
-[17:03:06] [Server thread/INFO]: Done (5.819s)! For help, type "help"
-[17:03:06] [Server thread/INFO]: TemPengu[/23.116.86.190:51808] logged in with entity id 106 at (-196.18764819775623, 67.0, 81.02490249812627)
-[17:03:06] [Server thread/INFO]: TemPengu joined the game
-[17:03:53] [User Authenticator #2/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
-[17:03:53] [Server thread/INFO]: Somniae[/127.0.0.1:62116] logged in with entity id 357 at (-177.9256121032406, 64.0, 37.202009767974715)
-[17:03:53] [Server thread/INFO]: Somniae joined the game
-[17:16:57] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-175, y=65, z=58} fk{x=-174, y=67, z=58}
-[17:16:57] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-175, y=65, z=58} fk{x=-174, y=67, z=58}
-[17:16:57] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-175, y=65, z=58} fk{x=-174, y=67, z=58}
-[17:16:57] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-175, y=65, z=58} fk{x=-174, y=67, z=58}
-[17:16:57] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-175, y=65, z=58} fk{x=-174, y=67, z=58}
-[17:49:21] [Server thread/INFO]: TemPengu lost connection: Disconnected
-[17:49:21] [Server thread/INFO]: TemPengu left the game
-[17:49:32] [Server thread/INFO]: Somniae lost connection: Disconnected
-[17:49:32] [Server thread/INFO]: Somniae left the game
-[17:49:37] [Server thread/INFO]: Stopping server
-[17:49:37] [Server thread/INFO]: Saving players
-[17:49:37] [Server thread/INFO]: Saving worlds
-[17:49:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[17:49:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:49:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:49:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:49:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[17:49:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:49:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:49:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:49:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:06:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:06:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:06:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:06:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:06:33] [Server thread/INFO]: Starting minecraft server version 1.15
+[11:06:33] [Server thread/INFO]: Loading properties
+[11:06:33] [Server thread/INFO]: Default game type: SURVIVAL
+[11:06:33] [Server thread/INFO]: Generating keypair
+[11:06:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:06:33] [Server thread/INFO]: Using default channel type
+[11:06:35] [Server thread/INFO]: Preparing level "world"
+[11:06:36] [Server thread/INFO]: Reloading ResourceManager: Default
+[11:06:36] [Server thread/INFO]: Loaded 6 recipes
+[11:06:37] [Server thread/INFO]: Loaded 825 advancements
+[11:06:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:06:39] [Server thread/INFO]: Preparing spawn area: 0%
+[11:06:39] [Server thread/INFO]: Preparing spawn area: 0%
+[11:06:39] [Server thread/INFO]: Preparing spawn area: 0%
+[11:06:39] [Server thread/INFO]: Preparing spawn area: 0%
+[11:06:40] [Server thread/INFO]: Preparing spawn area: 0%
+[11:06:40] [Server thread/INFO]: Preparing spawn area: 83%
+[11:06:41] [Server thread/INFO]: Time elapsed: 2901 ms
+[11:06:41] [Server thread/INFO]: Done (5.061s)! For help, type "help"
+[11:06:58] [User Authenticator #1/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
+[11:06:59] [Server thread/INFO]: Somniae[/127.0.0.1:63408] logged in with entity id 122 at (-182.20132274694464, 64.0, 35.964578880766155)
+[11:06:59] [Server thread/INFO]: Somniae joined the game
+[11:07:39] [Server thread/INFO]: Somniae lost connection: Disconnected
+[11:07:39] [Server thread/INFO]: Somniae left the game
+[11:07:46] [Server thread/INFO]: Stopping server
+[11:07:46] [Server thread/INFO]: Saving players
+[11:07:46] [Server thread/INFO]: Saving worlds
+[11:07:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[11:07:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:07:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[11:07:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:07:47] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[11:07:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:07:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:07:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:07:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
