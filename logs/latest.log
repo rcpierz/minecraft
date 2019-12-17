@@ -1,130 +1,103 @@
-[11:37:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:37:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:37:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:37:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:37:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:37:40] [Server thread/INFO]: Starting minecraft server version 1.15
-[11:37:40] [Server thread/INFO]: Loading properties
-[11:37:40] [Server thread/INFO]: Default game type: SURVIVAL
-[11:37:40] [Server thread/INFO]: Generating keypair
-[11:37:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:37:41] [Server thread/INFO]: Using default channel type
-[11:37:42] [Server thread/INFO]: Preparing level "world"
-[11:37:42] [Server thread/INFO]: Reloading ResourceManager: Default
-[11:37:43] [Server thread/INFO]: Loaded 6 recipes
-[11:37:44] [Server thread/INFO]: Loaded 825 advancements
-[11:37:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:37:46] [Server thread/INFO]: Preparing spawn area: 0%
-[11:37:46] [Server thread/INFO]: Preparing spawn area: 0%
-[11:37:46] [Server thread/INFO]: Preparing spawn area: 0%
-[11:37:47] [Server thread/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server thread/INFO]: Preparing spawn area: 0%
-[11:37:55] [Server thread/INFO]: Preparing spawn area: 73%
-[11:37:56] [Server thread/INFO]: Time elapsed: 11000 ms
-[11:37:56] [Server thread/INFO]: Done (13.756s)! For help, type "help"
-[11:52:16] [User Authenticator #1/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
-[11:52:16] [Server thread/INFO]: Somniae[/127.0.0.1:52997] logged in with entity id 137 at (-179.0507713290056, 64.0, 39.798532613927)
-[11:52:16] [Server thread/INFO]: Somniae joined the game
-[11:52:45] [Server thread/INFO]: Somniae lost connection: Disconnected
-[11:52:45] [Server thread/INFO]: Somniae left the game
-[11:54:55] [User Authenticator #2/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
-[11:54:55] [Server thread/INFO]: Somniae[/127.0.0.1:53254] logged in with entity id 280 at (-173.8274141656277, 63.0, 27.680555411358192)
-[11:54:55] [Server thread/INFO]: Somniae joined the game
-[11:59:46] [Server thread/INFO]: Somniae lost connection: Disconnected
-[11:59:46] [Server thread/INFO]: Somniae left the game
-[11:59:48] [User Authenticator #3/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
-[11:59:49] [Server thread/INFO]: Somniae[/127.0.0.1:53284] logged in with entity id 859 at (-160.171300159354, 63.0, 43.92500001192093)
-[11:59:49] [Server thread/INFO]: Somniae joined the game
-[12:00:19] [Server thread/INFO]: Somniae has made the advancement [Fishy Business]
-[13:07:58] [Server thread/INFO]: Somniae lost connection: Disconnected
-[13:07:58] [Server thread/INFO]: Somniae left the game
-[15:30:14] [User Authenticator #4/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
-[15:30:14] [Server thread/INFO]: Somniae[/127.0.0.1:53956] logged in with entity id 8237 at (-179.213637005169, 72.0, 38.223662798485485)
-[15:30:14] [Server thread/INFO]: Somniae joined the game
-[15:40:29] [Server thread/INFO]: [Somniae: Set own game mode to Creative Mode]
-[15:40:57] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[15:55:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2391ms or 47 ticks behind
-[16:10:06] [User Authenticator #5/INFO]: UUID of player TemPengu is 5165e583-e36b-4610-99cf-2bf0443d5772
-[16:10:06] [Server thread/INFO]: TemPengu[/23.116.86.190:53250] logged in with entity id 13343 at (-183.3674465283634, 83.0, 35.316873012489886)
-[16:10:06] [Server thread/INFO]: TemPengu joined the game
-[16:12:35] [Server thread/INFO]: <TemPengu> my discord isnt connecting?
-[16:12:43] [Server thread/INFO]: <Somniae> oh shit didn't realize you was on
-[16:12:44] [Server thread/INFO]: <Somniae> sec
-[16:12:52] [Server thread/INFO]: <TemPengu> i can't connect to discord
-[16:12:56] [Server thread/INFO]: <TemPengu> been on all day
-[16:13:11] [Server thread/INFO]: <Somniae> youve been on this server?
-[16:13:24] [Server thread/INFO]: <TemPengu> like it is spinning and wont get me to the home screen
-[16:13:27] [Server thread/INFO]: <TemPengu> no discord
-[16:13:50] [Server thread/INFO]: <Somniae> Quit the application via your taskbar
-[16:13:59] [Server thread/INFO]: <TemPengu> I have
-[16:14:39] [Server thread/INFO]: <Somniae> i was hoping to have my project done before you logged on :C
-[16:14:56] [Server thread/INFO]: <Somniae> did you actually quit-quit the applciation
-[16:15:04] [Server thread/INFO]: <Somniae> if you close the appplication it will still be running in yoru taskbar
-[16:15:41] [Server thread/INFO]: <TemPengu> WTF happened to the spruce farm
-[16:15:51] [Server thread/INFO]: <Somniae> it grew lol
-[16:16:13] [Server thread/INFO]: <TemPengu> i hvae multiple times
-[16:16:18] [Server thread/INFO]: <TemPengu> and I've restarted comp
-[16:16:24] [Server thread/INFO]: <Somniae> not sure what to tell you
-[16:16:31] [Server thread/INFO]: <Somniae> try using the browser
-[16:16:34] [Server thread/INFO]: <Somniae> go to discord.gg
-[16:31:12] [Server thread/INFO]: <TemPengu> I'M TILTED
-[16:31:19] [Server thread/INFO]: <TemPengu> I DONT REMEMVER MY LOGIN
-[16:31:24] [Server thread/INFO]: <Somniae> lol yeah
-[16:31:26] [Server thread/INFO]: <Somniae> same thing happened to me
-[16:31:38] [Server thread/INFO]: <TemPengu> the email associated with this account was an old school email that expired
-[16:31:45] [Server thread/INFO]: <Somniae> ouchie]
-[16:31:55] [Server thread/INFO]: <Somniae> phone?
-[16:36:03] [Server thread/INFO]: <Somniae> i want to make a fishing dock
-[16:36:18] [Server thread/INFO]: <Somniae> or maybe we can just add the stuff to the boat dock
-[16:37:28] [Server thread/INFO]: <TemPengu> a fishing dock would be dope
-[16:37:34] [Server thread/INFO]: <Somniae> i have some stuff for fishing
-[16:37:42] [Server thread/INFO]: <Somniae> I didn't realize you can get some ingredients really fast that way
-[16:40:06] [Server thread/INFO]: <TemPengu> haha really?
-[16:40:11] [Server thread/INFO]: <Somniae> ?
-[16:40:14] [Server thread/INFO]: <Somniae> oh yeah
-[16:40:24] [Server thread/INFO]: <Somniae> just stuff that we haven't used yet
-[16:40:35] [Server thread/INFO]: <Somniae> like I didn't know where to get pufferfish
-[16:40:40] [Server thread/INFO]: <Somniae> saw a merchant with it once
-[16:43:47] [Server thread/INFO]: <Somniae> lseepytime
-[16:43:50] [Server thread/INFO]: <Somniae> sleepytime
-[16:49:08] [Server thread/INFO]: <Somniae> sooooo discord?
-[16:55:40] [Server thread/INFO]: <TemPengu> sleepy time?
-[16:55:48] [Server thread/INFO]: <Somniae> ok
-[16:56:09] [Server thread/INFO]: <Somniae> figure out discord i hate playing without us talking
-[16:57:27] [Server thread/INFO]: <TemPengu> Im trying
-[16:59:21] [Server thread/INFO]: <Somniae> cant you just use your phone
-[17:04:00] [Server thread/INFO]: <TemPengu> w
-[17:19:49] [Server thread/INFO]: <Somniae> are you moving your whole bedroom
-[17:31:14] [Server thread/INFO]: TemPengu lost connection: Timed out
-[17:31:14] [Server thread/INFO]: TemPengu left the game
-[17:31:14] [Server thread/WARN]: handleDisconnection() called twice
-[19:07:40] [Server thread/INFO]: Somniae lost connection: Disconnected
-[19:07:40] [Server thread/INFO]: Somniae left the game
-[19:07:49] [Server thread/INFO]: Stopping server
-[19:07:49] [Server thread/INFO]: Saving players
-[19:07:49] [Server thread/INFO]: Saving worlds
-[19:07:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:07:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:07:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:07:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:07:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:07:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:07:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:35:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:35:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:35:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:35:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:35:19] [Server thread/INFO]: Starting minecraft server version 1.15
+[18:35:19] [Server thread/INFO]: Loading properties
+[18:35:19] [Server thread/INFO]: Default game type: SURVIVAL
+[18:35:19] [Server thread/INFO]: Generating keypair
+[18:35:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:35:20] [Server thread/INFO]: Using default channel type
+[18:35:24] [Server thread/INFO]: Preparing level "world"
+[18:35:25] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:35:25] [Server thread/INFO]: Loaded 6 recipes
+[18:35:26] [Server thread/INFO]: Loaded 825 advancements
+[18:35:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:40] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:40] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:40] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:40] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:40] [Server thread/INFO]: Preparing spawn area: 0%
+[18:35:40] [Server thread/INFO]: Time elapsed: 14242 ms
+[18:35:40] [Server thread/INFO]: Done (15.591s)! For help, type "help"
+[19:09:35] [User Authenticator #1/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
+[19:09:36] [Server thread/INFO]: Somniae[/127.0.0.1:56318] logged in with entity id 124 at (-168.04279214040105, 72.0, 35.497590243833116)
+[19:09:36] [Server thread/INFO]: Somniae joined the game
+[19:09:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
+[19:37:39] [Server thread/INFO]: Somniae lost connection: Disconnected
+[19:37:39] [Server thread/INFO]: Somniae left the game
+[20:28:46] [User Authenticator #2/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
+[20:28:47] [Server thread/INFO]: Somniae[/127.0.0.1:56936] logged in with entity id 3349 at (-173.5663551291313, 68.0, 37.817077684466234)
+[20:28:47] [Server thread/INFO]: Somniae joined the game
+[20:29:11] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[20:30:01] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[20:30:15] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[20:30:22] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[20:30:26] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[20:30:35] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[20:33:33] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[20:33:48] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[20:39:54] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[20:39:59] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[20:40:03] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[20:40:09] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[20:51:12] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[20:51:18] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[20:53:25] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[20:53:32] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[20:56:52] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[20:56:55] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[20:59:53] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[21:00:03] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[21:02:49] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[21:02:55] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[21:04:14] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[21:04:21] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[21:16:35] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[21:16:49] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[21:19:04] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[21:19:12] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[21:19:21] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[21:19:30] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[21:19:43] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[21:19:49] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[21:32:50] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[21:33:27] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[21:35:59] [Server thread/INFO]: Somniae lost connection: Disconnected
+[21:35:59] [Server thread/INFO]: Somniae left the game
+[21:36:06] [Server thread/INFO]: Stopping server
+[21:36:06] [Server thread/INFO]: Saving players
+[21:36:06] [Server thread/INFO]: Saving worlds
+[21:36:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:36:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:36:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
