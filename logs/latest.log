@@ -1,103 +1,44 @@
-[18:35:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:35:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:35:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:35:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:35:19] [Server thread/INFO]: Starting minecraft server version 1.15
-[18:35:19] [Server thread/INFO]: Loading properties
-[18:35:19] [Server thread/INFO]: Default game type: SURVIVAL
-[18:35:19] [Server thread/INFO]: Generating keypair
-[18:35:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:35:20] [Server thread/INFO]: Using default channel type
-[18:35:24] [Server thread/INFO]: Preparing level "world"
-[18:35:25] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:35:25] [Server thread/INFO]: Loaded 6 recipes
-[18:35:26] [Server thread/INFO]: Loaded 825 advancements
-[18:35:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:38] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:40] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:40] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:40] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:40] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:40] [Server thread/INFO]: Preparing spawn area: 0%
-[18:35:40] [Server thread/INFO]: Time elapsed: 14242 ms
-[18:35:40] [Server thread/INFO]: Done (15.591s)! For help, type "help"
-[19:09:35] [User Authenticator #1/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
-[19:09:36] [Server thread/INFO]: Somniae[/127.0.0.1:56318] logged in with entity id 124 at (-168.04279214040105, 72.0, 35.497590243833116)
-[19:09:36] [Server thread/INFO]: Somniae joined the game
-[19:09:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
-[19:37:39] [Server thread/INFO]: Somniae lost connection: Disconnected
-[19:37:39] [Server thread/INFO]: Somniae left the game
-[20:28:46] [User Authenticator #2/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
-[20:28:47] [Server thread/INFO]: Somniae[/127.0.0.1:56936] logged in with entity id 3349 at (-173.5663551291313, 68.0, 37.817077684466234)
-[20:28:47] [Server thread/INFO]: Somniae joined the game
-[20:29:11] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[20:30:01] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[20:30:15] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[20:30:22] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[20:30:26] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[20:30:35] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[20:33:33] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[20:33:48] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[20:39:54] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[20:39:59] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[20:40:03] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[20:40:09] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[20:51:12] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[20:51:18] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[20:53:25] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[20:53:32] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[20:56:52] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[20:56:55] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[20:59:53] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[21:00:03] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[21:02:49] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[21:02:55] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[21:04:14] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[21:04:21] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[21:16:35] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[21:16:49] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[21:19:04] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[21:19:12] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[21:19:21] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[21:19:30] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[21:19:43] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[21:19:49] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[21:32:50] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
-[21:33:27] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
-[21:35:59] [Server thread/INFO]: Somniae lost connection: Disconnected
-[21:35:59] [Server thread/INFO]: Somniae left the game
-[21:36:06] [Server thread/INFO]: Stopping server
-[21:36:06] [Server thread/INFO]: Saving players
-[21:36:06] [Server thread/INFO]: Saving worlds
-[21:36:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:36:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:36:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:36:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:01:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:01:11] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:01:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:01:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:01:13] [Server thread/INFO]: Starting minecraft server version 1.15
+[19:01:13] [Server thread/INFO]: Loading properties
+[19:01:13] [Server thread/INFO]: Default game type: SURVIVAL
+[19:01:13] [Server thread/INFO]: Generating keypair
+[19:01:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:01:13] [Server thread/INFO]: Using default channel type
+[19:01:15] [Server thread/INFO]: Preparing level "world"
+[19:01:15] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:01:16] [Server thread/INFO]: Loaded 6 recipes
+[19:01:16] [Server thread/INFO]: Loaded 825 advancements
+[19:01:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:01:19] [Server thread/INFO]: Preparing spawn area: 0%
+[19:01:19] [Server thread/INFO]: Preparing spawn area: 0%
+[19:01:19] [Server thread/INFO]: Preparing spawn area: 0%
+[19:01:19] [Server thread/INFO]: Preparing spawn area: 0%
+[19:01:19] [Server thread/INFO]: Preparing spawn area: 0%
+[19:01:20] [Server thread/INFO]: Preparing spawn area: 0%
+[19:01:24] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[19:01:24] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:01:24] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:01:24] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:01:24] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:01:24] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:01:24] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:01:24] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[19:01:24] [Server thread/INFO]: Preparing spawn area: 0%
+[19:01:24] [Server thread/INFO]: Time elapsed: 7518 ms
+[19:01:25] [Server thread/INFO]: Done (9.543s)! For help, type "help"
+[19:12:06] [Server thread/INFO]: Stopping server
+[19:12:06] [Server thread/INFO]: Saving players
+[19:12:06] [Server thread/INFO]: Saving worlds
+[19:12:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:12:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:12:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:12:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[19:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:12:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
