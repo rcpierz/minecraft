@@ -1381,8 +1381,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-12-12 20:15:12 -0600",
-      "minecraft:forest": "2019-11-20 21:29:50 -0600",
       "minecraft:mountains": "2019-12-10 21:47:51 -0600",
+      "minecraft:forest": "2019-11-20 21:29:50 -0600",
       "minecraft:taiga": "2019-12-10 21:41:11 -0600",
       "minecraft:taiga_hills": "2019-12-10 21:44:25 -0600",
       "minecraft:desert": "2019-11-23 11:01:03 -0600",
@@ -3344,5 +3344,5 @@
     },
     "done": true
   },
-  "DataVersion": 2225
+  "DataVersion": 2227
 }
