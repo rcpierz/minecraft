@@ -1212,8 +1212,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-12-07 12:45:05 -0600",
       "minecraft:forest": "2019-11-20 21:29:29 -0600",
+      "minecraft:mountains": "2019-12-07 12:45:05 -0600",
       "minecraft:taiga": "2019-12-07 12:41:47 -0600",
       "minecraft:taiga_hills": "2019-12-07 12:44:13 -0600",
       "minecraft:desert": "2019-11-23 10:40:48 -0600",
@@ -1222,8 +1222,8 @@
       "minecraft:badlands": "2019-11-23 10:40:51 -0600",
       "minecraft:beach": "2019-12-07 13:44:57 -0600",
       "minecraft:dark_forest": "2019-11-20 22:28:39 -0600",
-      "minecraft:lukewarm_ocean": "2019-12-07 12:48:04 -0600",
       "minecraft:river": "2019-11-20 22:08:14 -0600",
+      "minecraft:lukewarm_ocean": "2019-12-07 12:48:04 -0600",
       "minecraft:birch_forest_hills": "2019-11-21 19:40:25 -0600",
       "minecraft:wooded_mountains": "2019-12-07 13:07:09 -0600",
       "minecraft:wooded_hills": "2019-11-23 17:26:52 -0600",
@@ -2988,5 +2988,5 @@
     },
     "done": true
   },
-  "DataVersion": 2225
+  "DataVersion": 2227
 }
