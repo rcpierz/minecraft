@@ -1,12 +1,54 @@
-[00:15:14] [Server thread/INFO]: Stopping server
-[00:15:14] [Server thread/INFO]: Saving players
-[00:15:14] [Server thread/INFO]: Saving worlds
-[00:15:14] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[00:15:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:15:14] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[00:15:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:15:14] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[00:15:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:15:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:15:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:15:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:27:51] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:27:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:27:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:27:51] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:27:51] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:27:54] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[13:27:54] [Server thread/INFO]: Loading properties
+[13:27:54] [Server thread/INFO]: Default game type: SURVIVAL
+[13:27:54] [Server thread/INFO]: Generating keypair
+[13:27:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:27:55] [Server thread/INFO]: Using default channel type
+[13:27:55] [Server thread/INFO]: Preparing level "world"
+[13:27:55] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:28:09] [Server thread/INFO]: Loaded 6 recipes
+[13:28:10] [Server thread/INFO]: Loaded 825 advancements
+[13:28:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:28:12] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:12] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:12] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:12] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:12] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:12] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:13] [Server thread/INFO]: Time elapsed: 2893 ms
+[13:28:13] [Server thread/INFO]: Done (17.561s)! For help, type "help"
+[13:31:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@458b7987[id=<null>,name=TemPengu,properties={},legacy=false] (/127.0.0.1:59115) lost connection: Disconnected
+[13:31:48] [User Authenticator #1/INFO]: UUID of player TemPengu is 5165e583-e36b-4610-99cf-2bf0443d5772
+[13:31:49] [Server thread/INFO]: TemPengu[/127.0.0.1:59117] logged in with entity id 108 at (-182.70000002533197, 83.0000002, 38.299999974668026)
+[13:31:49] [Server thread/INFO]: TemPengu joined the game
+[13:31:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[13:32:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6116ms or 122 ticks behind
+[13:32:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[13:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3871ms or 77 ticks behind
+[13:38:29] [Server thread/WARN]: Boat (vehicle of TemPengu) moved too quickly! 4.954066879221813,0.0,9.144217938513059
+[13:38:29] [Server thread/WARN]: Boat (vehicle of TemPengu) moved too quickly! 5.144566303254905,0.0,9.49594240361386
+[13:38:29] [Server thread/WARN]: Boat (vehicle of TemPengu) moved too quickly! 5.33506414703848,0.0,9.847667692120773
+[13:38:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[13:38:39] [Server thread/WARN]: TemPengu moved wrongly!
+[13:45:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[14:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14:13:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[14:32:15] [Server thread/INFO]: TemPengu lost connection: Disconnected
+[14:32:15] [Server thread/INFO]: TemPengu left the game
+[14:33:00] [Server thread/INFO]: Stopping server
+[14:33:00] [Server thread/INFO]: Saving players
+[14:33:00] [Server thread/INFO]: Saving worlds
+[14:33:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[14:33:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:33:00] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[14:33:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:33:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[14:33:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:33:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:33:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:33:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
