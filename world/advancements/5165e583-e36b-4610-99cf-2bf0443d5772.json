@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2019-12-21 15:30:44 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2019-12-09 20:18:56 -0600"
@@ -389,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2019-12-22 00:59:54 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-11-20 22:09:59 -0600"
@@ -470,6 +482,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-11-20 21:49:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2019-12-21 15:38:27 -0600"
     },
     "done": true
   },
@@ -1186,6 +1204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-12-21 15:22:04 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-11-20 22:05:53 -0600"
@@ -1214,6 +1238,7 @@
     "criteria": {
       "minecraft:forest": "2019-11-20 21:29:29 -0600",
       "minecraft:mountains": "2019-12-07 12:45:05 -0600",
+      "minecraft:badlands_plateau": "2019-12-22 00:47:53 -0600",
       "minecraft:taiga": "2019-12-07 12:41:47 -0600",
       "minecraft:taiga_hills": "2019-12-07 12:44:13 -0600",
       "minecraft:desert": "2019-11-23 10:40:48 -0600",
@@ -1501,6 +1526,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2019-11-20 22:09:59 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2019-12-21 16:19:16 -0600"
     },
     "done": true
   },
@@ -2285,6 +2316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2019-12-21 15:22:04 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-11-20 22:17:31 -0600"
@@ -2618,6 +2655,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-11-21 21:13:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-12-21 15:22:04 -0600"
     },
     "done": true
   },
