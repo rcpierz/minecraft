@@ -717,6 +717,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2019-11-23 18:47:20 -0600",
+      "minecraft:blaze": "2019-12-22 22:02:20 -0600",
       "minecraft:skeleton": "2019-11-20 22:00:45 -0600",
       "minecraft:zombie_pigman": "2019-11-23 15:16:19 -0600",
       "minecraft:ghast": "2019-11-23 15:48:04 -0600",
@@ -966,6 +967,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2019-12-10 21:50:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2019-12-22 22:03:14 -0600"
     },
     "done": true
   },
@@ -2774,6 +2781,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-12-22 22:00:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-11-21 21:07:28 -0600"
@@ -3014,6 +3027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2019-12-22 22:03:14 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2019-12-10 21:50:22 -0600"
@@ -3071,6 +3090,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2019-11-21 23:20:24 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2019-12-22 22:03:14 -0600"
     },
     "done": true
   },

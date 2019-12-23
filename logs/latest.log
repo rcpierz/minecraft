@@ -1,40 +1,80 @@
-[00:26:36] [Server thread/INFO]: <TemPengu> https://www.youtube.com/watch?v=Pp3OfxbBQ5o
-[00:27:51] [Server thread/WARN]: TemPengu moved wrongly!
-[00:28:15] [Server thread/WARN]: TemPengu moved wrongly!
-[00:30:46] [Server thread/WARN]: TemPengu moved wrongly!
-[00:44:02] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
-[00:44:02] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
-[00:44:02] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
-[00:44:02] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
-[00:44:02] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
-[00:44:02] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
-[00:44:02] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
-[00:44:02] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
-[00:44:02] [Server thread/WARN]: Error while deserializing minecraft:hay_pile
-[00:44:02] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
-[00:44:02] [Server thread/WARN]: Error while deserializing minecraft:plain_flower
-[00:45:34] [Server thread/WARN]: TemPengu moved too quickly! 2.832280966445296,-1.0,9.648589151214082
-[00:45:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3586ms or 71 ticks behind
-[00:50:38] [Server thread/WARN]: TemPengu moved too quickly! 6.550174544810716,-2.0,-7.41774664118293
-[00:50:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3900ms or 78 ticks behind
-[00:55:41] [Server thread/WARN]: TemPengu moved too quickly! -9.798142905971531,0.0,2.537199224098515
-[00:55:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
-[00:56:57] [Server thread/INFO]: TemPengu was slain by Zombie
-[00:59:54] [Server thread/INFO]: Somniae has reached the goal [Hired Help]
-[00:59:54] [Server thread/INFO]: TemPengu has reached the goal [Hired Help]
-[01:01:14] [Server thread/INFO]: Somniae lost connection: Disconnected
-[01:01:14] [Server thread/INFO]: Somniae left the game
-[01:01:29] [Server thread/INFO]: TemPengu lost connection: Disconnected
-[01:01:29] [Server thread/INFO]: TemPengu left the game
-[01:22:37] [Server thread/INFO]: Stopping server
-[01:22:37] [Server thread/INFO]: Saving players
-[01:22:37] [Server thread/INFO]: Saving worlds
-[01:22:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[01:22:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:22:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[01:22:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:22:37] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[01:22:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:22:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:22:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:22:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:10:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:10:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:10:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:10:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:10:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:10:25] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[17:10:25] [Server thread/INFO]: Loading properties
+[17:10:25] [Server thread/INFO]: Default game type: SURVIVAL
+[17:10:25] [Server thread/INFO]: Generating keypair
+[17:10:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:10:25] [Server thread/INFO]: Using default channel type
+[17:10:30] [Server thread/INFO]: Preparing level "world"
+[17:10:30] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:10:31] [Server thread/INFO]: Loaded 6 recipes
+[17:10:32] [Server thread/INFO]: Loaded 825 advancements
+[17:10:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:10:36] [Server thread/INFO]: Preparing spawn area: 0%
+[17:10:36] [Server thread/INFO]: Preparing spawn area: 0%
+[17:10:36] [Server thread/INFO]: Preparing spawn area: 0%
+[17:10:36] [Server thread/INFO]: Preparing spawn area: 0%
+[17:10:36] [Server thread/INFO]: Preparing spawn area: 0%
+[17:10:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:10:37] [Server thread/INFO]: Preparing spawn area: 0%
+[17:10:37] [Server thread/INFO]: Time elapsed: 3521 ms
+[17:10:37] [Server thread/INFO]: Done (7.092s)! For help, type "help"
+[17:17:13] [User Authenticator #1/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
+[17:17:13] [Server thread/INFO]: Somniae[/127.0.0.1:54066] logged in with entity id 109 at (-177.06291961900703, 68.0, 38.092917441020475)
+[17:17:13] [Server thread/INFO]: Somniae joined the game
+[17:19:35] [Server thread/INFO]: Somniae lost connection: Disconnected
+[17:19:35] [Server thread/INFO]: Somniae left the game
+[18:06:02] [User Authenticator #2/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
+[18:06:02] [Server thread/INFO]: Somniae[/127.0.0.1:54148] logged in with entity id 652 at (-173.93601449354642, 68.0, 39.124449142166775)
+[18:06:02] [Server thread/INFO]: Somniae joined the game
+[18:14:24] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[18:14:48] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[18:15:43] [Server thread/INFO]: Somniae lost connection: Disconnected
+[18:15:43] [Server thread/INFO]: Somniae left the game
+[21:30:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7361904ms or 147238 ticks behind
+[21:34:17] [User Authenticator #3/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
+[21:34:17] [Server thread/INFO]: Somniae[/127.0.0.1:54350] logged in with entity id 1818 at (-173.58409457662705, 68.0, 39.11685957896765)
+[21:34:18] [Server thread/INFO]: Somniae joined the game
+[21:43:56] [User Authenticator #4/INFO]: UUID of player TemPengu is 5165e583-e36b-4610-99cf-2bf0443d5772
+[21:43:56] [Server thread/INFO]: TemPengu[/23.116.86.190:64627] logged in with entity id 2958 at (-182.46562782006384, 77.0, 39.39906289006482)
+[21:43:56] [Server thread/INFO]: TemPengu joined the game
+[21:51:38] [Server thread/INFO]: Somniae fell from a high place
+[21:52:27] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[21:52:38] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[21:52:44] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[21:52:51] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[21:53:03] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[21:53:14] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[21:53:40] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[21:53:49] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[22:00:42] [Server thread/INFO]: Somniae has made the advancement [A Terrible Fortress]
+[22:01:17] [Server thread/INFO]: TemPengu has made the advancement [A Terrible Fortress]
+[22:03:14] [Server thread/INFO]: Somniae has made the advancement [Into Fire]
+[22:03:48] [Server thread/INFO]: TemPengu was burnt to a crisp whilst fighting Blaze
+[22:03:57] [Server thread/INFO]: Somniae burned to death
+[22:04:20] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[22:05:00] [Server thread/INFO]: TemPengu lost connection: Disconnected
+[22:05:00] [Server thread/INFO]: TemPengu left the game
+[22:06:23] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[22:06:33] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[22:06:43] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[22:06:47] [Server thread/INFO]: [Somniae: Set own game mode to Spectator Mode]
+[22:07:18] [Server thread/INFO]: [Somniae: Set own game mode to Survival Mode]
+[22:08:56] [Server thread/INFO]: Somniae lost connection: Disconnected
+[22:08:56] [Server thread/INFO]: Somniae left the game
+[23:11:12] [Server thread/INFO]: Stopping server
+[23:11:12] [Server thread/INFO]: Saving players
+[23:11:12] [Server thread/INFO]: Saving worlds
+[23:11:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:11:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:11:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:11:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:11:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:11:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:11:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:11:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:11:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
