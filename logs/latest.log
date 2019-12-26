@@ -1,37 +1,15 @@
-[12:04:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:04:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:04:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:04:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:04:04] [Server thread/INFO]: Starting minecraft server version 1.15.1
-[12:04:04] [Server thread/INFO]: Loading properties
-[12:04:04] [Server thread/INFO]: Default game type: SURVIVAL
-[12:04:04] [Server thread/INFO]: Generating keypair
-[12:04:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:04:05] [Server thread/INFO]: Using default channel type
-[12:04:06] [Server thread/INFO]: Preparing level "world"
-[12:04:06] [Server thread/INFO]: Reloading ResourceManager: Default
-[12:04:06] [Server thread/INFO]: Loaded 6 recipes
-[12:04:07] [Server thread/INFO]: Loaded 825 advancements
-[12:04:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:04:09] [Server thread/INFO]: Preparing spawn area: 0%
-[12:04:09] [Server thread/INFO]: Preparing spawn area: 0%
-[12:04:09] [Server thread/INFO]: Preparing spawn area: 0%
-[12:04:09] [Server thread/INFO]: Preparing spawn area: 0%
-[12:04:09] [Server thread/INFO]: Time elapsed: 1695 ms
-[12:04:09] [Server thread/INFO]: Done (3.669s)! For help, type "help"
-[15:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10885749ms or 217714 ticks behind
-[17:13:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7610520ms or 152210 ticks behind
-[17:13:38] [Server thread/INFO]: Unknown command
-[17:13:38] [Server thread/INFO]: test<--[HERE]
-[17:13:52] [Server thread/INFO]: Stopping server
-[17:13:52] [Server thread/INFO]: Saving players
-[17:13:52] [Server thread/INFO]: Saving worlds
-[17:13:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:13:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:13:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[17:13:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:13:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[17:13:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:13:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:13:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:13:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10886520ms or 217730 ticks behind
+[06:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10887031ms or 217740 ticks behind
+[10:56:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9193944ms or 183878 ticks behind
+[10:56:33] [Server thread/INFO]: Stopping server
+[10:56:33] [Server thread/INFO]: Saving players
+[10:56:33] [Server thread/INFO]: Saving worlds
+[10:56:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[10:56:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:56:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[10:56:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:56:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[10:56:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:56:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:56:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:56:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
