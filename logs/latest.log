@@ -1,15 +1,34 @@
-[01:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10886520ms or 217730 ticks behind
-[06:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10887031ms or 217740 ticks behind
-[10:56:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9193944ms or 183878 ticks behind
-[10:56:33] [Server thread/INFO]: Stopping server
-[10:56:33] [Server thread/INFO]: Saving players
-[10:56:33] [Server thread/INFO]: Saving worlds
-[10:56:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[10:56:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:56:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[10:56:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:56:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[10:56:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:56:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10:56:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:56:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:46:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10886668ms or 217733 ticks behind
+[06:51:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10884881ms or 217697 ticks behind
+[08:55:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 110039ms or 2200 ticks behind
+[12:35:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10886300ms or 217726 ticks behind
+[17:40:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10885711ms or 217714 ticks behind
+[20:02:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1097740ms or 21954 ticks behind
+[20:19:27] [User Authenticator #1/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
+[20:19:28] [Server thread/INFO]: Somniae[/127.0.0.1:62072] logged in with entity id 58 at (-193.77477130408388, 63.0, 33.905117611511045)
+[20:19:28] [Server thread/INFO]: Somniae joined the game
+[20:19:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
+[20:28:02] [Server thread/INFO]: Somniae lost connection: Disconnected
+[20:28:02] [Server thread/INFO]: Somniae left the game
+[20:29:10] [User Authenticator #2/INFO]: UUID of player Somniae is ded1816c-a364-4c19-bac4-d2a7364b57c1
+[20:29:10] [Server thread/INFO]: Somniae[/127.0.0.1:62351] logged in with entity id 1236 at (-181.10235552941683, 68.0, 43.06241470904878)
+[20:29:10] [Server thread/INFO]: Somniae joined the game
+[20:30:33] [User Authenticator #3/INFO]: UUID of player TemPengu is 5165e583-e36b-4610-99cf-2bf0443d5772
+[20:30:34] [Server thread/INFO]: TemPengu[/23.116.86.190:52847] logged in with entity id 1439 at (-189.1410116097269, 67.0, 101.30000001192093)
+[20:30:34] [Server thread/INFO]: TemPengu joined the game
+[22:39:00] [Server thread/INFO]: TemPengu lost connection: Disconnected
+[22:39:00] [Server thread/INFO]: TemPengu left the game
+[22:41:22] [Server thread/INFO]: Somniae lost connection: Disconnected
+[22:41:22] [Server thread/INFO]: Somniae left the game
+[22:41:28] [Server thread/INFO]: Stopping server
+[22:41:28] [Server thread/INFO]: Saving players
+[22:41:28] [Server thread/INFO]: Saving worlds
+[22:41:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:41:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:41:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:41:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:41:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:41:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:41:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:41:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:41:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved

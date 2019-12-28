@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-12-27 22:18:38 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2019-12-10 21:47:27 -0600"
@@ -200,6 +206,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2019-11-23 11:06:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2019-12-27 22:18:38 -0600"
     },
     "done": true
   },
@@ -368,6 +380,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2019-11-20 23:06:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-12-27 21:20:10 -0600"
     },
     "done": true
   },
@@ -727,6 +745,7 @@
       "minecraft:slime": "2019-11-21 21:53:54 -0600",
       "minecraft:phantom": "2019-11-21 21:56:35 -0600",
       "minecraft:witch": "2019-11-21 20:18:42 -0600",
+      "minecraft:wither_skeleton": "2019-12-27 21:17:07 -0600",
       "minecraft:husk": "2019-11-23 11:29:34 -0600",
       "minecraft:cave_spider": "2019-11-23 11:26:07 -0600",
       "minecraft:zombie": "2019-11-20 21:40:40 -0600",
@@ -734,6 +753,12 @@
       "minecraft:zombie_villager": "2019-11-22 21:09:12 -0600"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2019-12-27 21:58:54 -0600"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -1072,6 +1097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-12-27 22:18:38 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2019-11-21 21:17:00 -0600"
@@ -1370,6 +1401,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-11-20 21:50:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2019-12-27 21:58:54 -0600"
     },
     "done": true
   },
@@ -1705,6 +1742,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2019-11-20 21:39:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2019-12-27 21:58:54 -0600"
     },
     "done": true
   },
@@ -2061,6 +2104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2019-12-27 22:18:38 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-11-20 21:50:28 -0600"
@@ -2304,6 +2353,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2019-11-20 21:46:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2019-12-27 21:20:10 -0600"
     },
     "done": true
   },
@@ -2583,6 +2638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2019-12-27 22:26:04 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-11-21 20:43:48 -0600"
@@ -2766,6 +2827,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-11-21 21:07:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2019-12-27 22:18:38 -0600"
     },
     "done": true
   },
@@ -3144,6 +3211,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-11-23 11:11:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-12-27 22:18:38 -0600"
     },
     "done": true
   },
