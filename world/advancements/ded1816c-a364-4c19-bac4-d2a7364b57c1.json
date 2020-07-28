@@ -359,12 +359,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_logs": "2019-12-09 21:25:39 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-11-20 22:12:09 -0600"
@@ -509,12 +503,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/composter": {
-    "criteria": {
-      "has_wood_slab": "2019-12-10 18:26:00 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2019-11-21 20:43:48 -0600"
@@ -636,12 +624,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_log": "2019-12-10 21:41:22 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-11-22 20:24:52 -0600"
@@ -755,13 +737,13 @@
       "minecraft:pillager": "2019-11-23 18:47:20 -0600",
       "minecraft:blaze": "2019-12-22 22:02:20 -0600",
       "minecraft:skeleton": "2019-11-20 22:00:45 -0600",
-      "minecraft:zombie_pigman": "2019-11-23 15:16:19 -0600",
       "minecraft:ghast": "2019-11-23 15:48:04 -0600",
       "minecraft:magma_cube": "2019-12-09 22:39:05 -0600",
       "minecraft:spider": "2019-11-20 22:01:03 -0600",
       "minecraft:creeper": "2019-11-22 20:00:44 -0600",
       "minecraft:slime": "2019-11-21 21:53:54 -0600",
       "minecraft:phantom": "2019-11-21 21:56:35 -0600",
+      "minecraft:zombified_piglin": "2019-11-23 15:16:19 -0600",
       "minecraft:witch": "2019-11-21 20:18:42 -0600",
       "minecraft:wither_skeleton": "2019-12-27 21:17:07 -0600",
       "minecraft:husk": "2019-11-23 11:29:34 -0600",
@@ -890,6 +872,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2019-12-29 00:00:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2020-07-27 22:50:15 -0500"
     },
     "done": true
   },
@@ -1181,12 +1169,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2019-11-20 21:30:24 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-11-20 22:04:12 -0600"
@@ -1229,12 +1211,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_log": "2019-12-10 21:50:11 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2019-11-22 22:16:49 -0600"
@@ -1265,12 +1241,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_log": "2019-11-20 21:59:50 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-11-20 22:04:12 -0600"
@@ -1285,7 +1255,7 @@
   },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_string": "2019-11-20 22:01:04 -0600"
+      "has_paper": "2020-07-27 22:50:16 -0500"
     },
     "done": true
   },
@@ -3176,12 +3146,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_logs": "2020-01-04 19:38:42 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-11-21 20:49:25 -0600"
@@ -3263,6 +3227,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2019-11-20 22:12:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2019-12-10 18:26:00 -0600"
     },
     "done": true
   },
@@ -3518,5 +3488,5 @@
     },
     "done": true
   },
-  "DataVersion": 2227
+  "DataVersion": 2567
 }
